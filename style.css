@@ -29,19 +29,16 @@ body {
 	Write your solution here!
    ========================== */
 
-.card {
-  width: 80%;
-  margin: 0 auto;
-  padding: 2.5em;
+.title {
+  font-size: 3rem;
+  padding: 1em;
 }
 
 .text {
-  font-size: 1rem;
-  padding: 2em;
-}
-
-.title {
-  width: 50%;
-  font-size: 2em;
+  font-size: 1.5rem;
   padding: 1em;
+}
+.card {
+  max-width: 800px;
+  margin: 0 auto;
 }
